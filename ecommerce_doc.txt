@@ -1,0 +1,7 @@
+USER
+URL : http://localhost/product_cart/login
+
+ADMIN 
+URL : http://localhost/product_cart/admin/login
+Username : admin@gmail.com
+Password : admin123
