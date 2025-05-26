@@ -1,2 +1,2 @@
-# streetcandy
+# Cinema booking
 laravel project
